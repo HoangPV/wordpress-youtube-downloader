@@ -1,0 +1,17 @@
+{
+    "name": "hoangpv/wordpress-youtube-downloader",
+    "description": "MIT",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hoangpv\\WordpressYoutubeDownloader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dieter R",
+            "email": "dieterroark@getkenka.com"
+        }
+    ],
+    "require": {}
+}
